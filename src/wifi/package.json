@@ -1,0 +1,20 @@
+{
+  "name": "wifi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "client.js",
+  "dependencies": {
+    "commander": "^2.20.0",
+    "net": "^1.0.2",
+    "node-wifi-scanner": "^1.1.1",
+    "perf_hooks": "^0.0.1",
+    "random-bytes": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Klaus Höbarth",
+  "license": "ISC"
+}
