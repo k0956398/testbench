@@ -1,4 +1,4 @@
-# Test bench for cummication tests
+# Test bench for communication tests
 
 This repository contains the test bench used in the work "Generic Communication Library". To run the test follow the instructions provided in the document or download the source and run the following:
 
